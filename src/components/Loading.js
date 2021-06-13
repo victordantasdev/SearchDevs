@@ -28,7 +28,10 @@ export default function Loading() {
   return (
     <>
       <Helmet>
-        <link rel='icon' href='../assets/images/search_icon.png' />
+        <link
+          rel='icon'
+          href='https://images.vexels.com/media/users/3/132068/isolated/preview/f9bb81e576c1a361c61a8c08945b2c48-iacute-cone-de-pesquisa-by-vexels.png'
+        />
         <title>Loading ...</title>
       </Helmet>
       <Container>
